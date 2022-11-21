@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.chart-container2 {
+  background-color: #1c1c2b;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px 0px;
+}
+.bar-style {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
